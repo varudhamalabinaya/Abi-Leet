@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0766-toeplitz-matrix) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
