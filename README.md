@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0263-ugly-number) |
 ## Two Pointers
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0796-rotate-string) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0657-robot-return-to-origin) |
 ## Hash Table
 |  |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
