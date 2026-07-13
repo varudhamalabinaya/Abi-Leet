@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0283-move-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0766-toeplitz-matrix) |
 | [1672-richest-customer-wealth](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1672-richest-customer-wealth) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -79,4 +83,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
