@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0766-toeplitz-matrix) |
 | [1672-richest-customer-wealth](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1672-richest-customer-wealth) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,5 +107,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
