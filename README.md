@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0713-subarray-product-less-than-k) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
