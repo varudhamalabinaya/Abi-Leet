@@ -125,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
