@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0766-toeplitz-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
