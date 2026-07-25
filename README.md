@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0766-toeplitz-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1929-concatenation-of-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0349-intersection-of-two-arrays) |
 | [0647-palindromic-substrings](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0647-palindromic-substrings) |
+| [0977-squares-of-a-sorted-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
