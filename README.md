@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0628-maximum-product-of-three-numbers) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3718-smallest-missing-multiple-of-k) |
