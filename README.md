@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0409-longest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0657-robot-return-to-origin) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0560-subarray-sum-equals-k) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
 | ------- |
