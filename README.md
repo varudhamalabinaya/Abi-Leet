@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0647-palindromic-substrings) |
 ## Memoization
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0409-longest-palindrome) |
 | [0647-palindromic-substrings](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0657-robot-return-to-origin) |
