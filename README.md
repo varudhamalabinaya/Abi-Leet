@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0766-toeplitz-matrix) |
+| [0877-stone-game](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1672-richest-customer-wealth) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -183,4 +186,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0206-reverse-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
