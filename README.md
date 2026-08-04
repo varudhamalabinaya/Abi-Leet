@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1929-concatenation-of-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
