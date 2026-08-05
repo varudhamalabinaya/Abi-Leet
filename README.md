@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2553-separate-the-digits-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3731-find-missing-elements](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
