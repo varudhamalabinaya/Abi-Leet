@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0796-rotate-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2390-removing-stars-from-a-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0877-stone-game) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
