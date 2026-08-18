@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0100-same-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
