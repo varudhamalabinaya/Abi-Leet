@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0724-find-pivot-index) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2553-separate-the-digits-in-an-array) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
