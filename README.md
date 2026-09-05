@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1556-thousand-separator](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1556-thousand-separator) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2390-removing-stars-from-a-string) |
