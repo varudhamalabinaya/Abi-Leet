@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2553-separate-the-digits-in-an-array) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
