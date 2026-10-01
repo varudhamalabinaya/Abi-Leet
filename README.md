@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1556-thousand-separator](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1556-thousand-separator) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2553-separate-the-digits-in-an-array) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
