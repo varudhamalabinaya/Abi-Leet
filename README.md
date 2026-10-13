@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/2390-removing-stars-from-a-string) |
@@ -259,12 +260,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0110-balanced-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0110-balanced-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/varudhamalabinaya/Abi-Leet/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
